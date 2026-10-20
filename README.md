@@ -23,3 +23,7 @@ Evaluation expectations pre-registered in `fixtures/EXPECTED.md`:
 ```bash
 python -m unittest discover tests
 ```
+
+## Slugify Multi-commit
+Full implementation.
+
