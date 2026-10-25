@@ -1,0 +1,1001 @@
+# Oversize diff test file
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
+def extra_fn():
+    return "padding"
