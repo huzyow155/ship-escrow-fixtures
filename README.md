@@ -1,9 +1,8 @@
-# slug-project
+# slug-project (conflicting probe branch)
 
-A minimal project for slugification utility.
+This modification conflicts directly with commit 52f53ce on main.
 
-## Setup
-Run tests with:
-```bash
-python -m unittest discover tests
-```
+ship-escrow-wallet: 0x6325B360Db455435BF5e81D0aE18DC3b249f226C
+
+## Setup Conflicted
+Non-mergeable text content.
